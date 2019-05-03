@@ -1,0 +1,48 @@
+.season-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.left-icon {
+    position: absolute;
+    top: 5px;
+    left:10px;
+}
+
+.right-icon {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+}
+
+.summer {
+    background-color: orange;
+}
+
+.winter {
+    background-color: lightblue;
+}
+
+.sun {
+    color: tomato;
+}
+
+.snowflake {
+    color: blue;
+}
+
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
